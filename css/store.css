@@ -44,7 +44,7 @@ body {
 }
 
 .sold-out {
-  color: red;
+  color: blue;
   text-decoration: line-through;
 }
 
